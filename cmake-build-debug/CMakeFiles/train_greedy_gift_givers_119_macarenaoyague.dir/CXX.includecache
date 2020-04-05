@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macarena/Documents/ALGORITMOS/Semana00/train-greedy-gift-givers-119-macarenaoyague/main.cpp
+iostream
+-
+sstream
+-
+vector
+-
+

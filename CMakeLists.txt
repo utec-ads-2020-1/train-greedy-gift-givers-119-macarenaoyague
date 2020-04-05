@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(train_greedy_gift_givers_119_macarenaoyague)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(train_greedy_gift_givers_119_macarenaoyague main.cpp)

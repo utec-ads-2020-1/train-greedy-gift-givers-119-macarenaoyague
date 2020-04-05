@@ -1,0 +1,3 @@
+/Users/macarena/Documents/ALGORITMOS/Semana00/train-greedy-gift-givers-119-macarenaoyague/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macarena/Documents/ALGORITMOS/Semana00/train-greedy-gift-givers-119-macarenaoyague/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macarena/Documents/ALGORITMOS/Semana00/train-greedy-gift-givers-119-macarenaoyague/cmake-build-debug/CMakeFiles/train_greedy_gift_givers_119_macarenaoyague.dir
